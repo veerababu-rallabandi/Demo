@@ -1,0 +1,13 @@
+C:\Users\Veerababu Rallabandi\source\repos\dwmo\dwmo\bin\Debug\netcoreapp3.1\dwmo.exe
+C:\Users\Veerababu Rallabandi\source\repos\dwmo\dwmo\bin\Debug\netcoreapp3.1\dwmo.deps.json
+C:\Users\Veerababu Rallabandi\source\repos\dwmo\dwmo\bin\Debug\netcoreapp3.1\dwmo.runtimeconfig.json
+C:\Users\Veerababu Rallabandi\source\repos\dwmo\dwmo\bin\Debug\netcoreapp3.1\dwmo.runtimeconfig.dev.json
+C:\Users\Veerababu Rallabandi\source\repos\dwmo\dwmo\bin\Debug\netcoreapp3.1\dwmo.dll
+C:\Users\Veerababu Rallabandi\source\repos\dwmo\dwmo\bin\Debug\netcoreapp3.1\dwmo.pdb
+C:\Users\Veerababu Rallabandi\source\repos\dwmo\dwmo\obj\Debug\netcoreapp3.1\dwmo.csprojAssemblyReference.cache
+C:\Users\Veerababu Rallabandi\source\repos\dwmo\dwmo\obj\Debug\netcoreapp3.1\dwmo.AssemblyInfoInputs.cache
+C:\Users\Veerababu Rallabandi\source\repos\dwmo\dwmo\obj\Debug\netcoreapp3.1\dwmo.AssemblyInfo.cs
+C:\Users\Veerababu Rallabandi\source\repos\dwmo\dwmo\obj\Debug\netcoreapp3.1\dwmo.csproj.CoreCompileInputs.cache
+C:\Users\Veerababu Rallabandi\source\repos\dwmo\dwmo\obj\Debug\netcoreapp3.1\dwmo.dll
+C:\Users\Veerababu Rallabandi\source\repos\dwmo\dwmo\obj\Debug\netcoreapp3.1\dwmo.pdb
+C:\Users\Veerababu Rallabandi\source\repos\dwmo\dwmo\obj\Debug\netcoreapp3.1\dwmo.genruntimeconfig.cache
